@@ -18,8 +18,8 @@ def binary_search(arr, target):
             low = mid + 1
         
         else:
-            print("Not Found")
+            print("Not Found Target")
             return
         
 
-binary_search(sorted(arr), 27)
+binary_search(sorted(arr), 32)
