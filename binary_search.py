@@ -1,7 +1,7 @@
-arr = [5,6,1,10,27,32, 11, 4]
+arr = [5,6,1,10,27,32,11,4,65,34]
 
 def binary_search(arr, target):
-    #accepts a sorted arraya nd searches for the target
+    #accepts a sorted array and searches for the target
 
     low = 0
     mid = len(arr)//2
